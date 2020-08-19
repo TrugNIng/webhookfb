@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Class-Path: jcl-over-slf4j-1.7.25.jar mchange-commons-java-0.2.11.jar 
+ hibernate-jpa-2.1-api-1.0.0.Final.jar javassist-3.21.0-GA.jar jackson
+ -jaxrs-1.9.2.jar commons-codec-1.10.jar tomcat-jdbc-8.5.34.jar jackso
+ n-annotations-2.9.5.jar bcpkix-jdk15on-1.52.jar nimbus-jose-jwt-5.10.
+ jar spring-data-commons-1.13.16.RELEASE.jar json-smart-2.3.jar spring
+ -boot-1.5.17.BUILD-20181016.062653-21.jar jsr311-api-1.1.1.jar spring
+ -boot-starter-web-1.5.17.BUILD-20181016.062653-21.jar logback-core-1.
+ 1.11.jar maven-plugin-annotations-3.5.jar jandex-2.0.0.Final.jar spri
+ ng-aspects-4.3.20.RELEASE.jar spring-boot-starter-jdbc-1.5.17.BUILD-2
+ 0181016.062653-21.jar jackson-core-asl-1.9.2.jar classmate-1.3.4.jar 
+ jackson-databind-2.8.11.2.jar bcprov-jdk15on-1.52.jar spring-boot-sta
+ rter-tomcat-1.5.17.BUILD-20181016.062653-21.jar HikariCP-2.6.0.jar sp
+ ring-boot-starter-aop-1.5.17.BUILD-20181016.062653-21.jar jackson-map
+ per-asl-1.9.2.jar jersey-bundle-1.19.2.jar spring-ws-core-2.4.3.RELEA
+ SE.jar spring-boot-starter-1.5.17.BUILD-20181016.062653-21.jar plexus
+ -utils-2.0.4.jar spring-oxm-4.3.20.RELEASE.jar snakeyaml-1.17.jar spr
+ ing-boot-starter-data-jpa-1.5.17.BUILD-20181016.062653-21.jar log4j-o
+ ver-slf4j-1.7.25.jar commons-lang-2.6.jar jettison-1.1.jar spring-aop
+ -4.3.20.RELEASE.jar spring-beans-4.3.20.RELEASE.jar jul-to-slf4j-1.7.
+ 25.jar tomcat-embed-core-8.5.34.jar c3p0-0.9.5.2.jar activation-1.1.j
+ ar jcip-annotations-1.0-1.jar spring-web-4.3.20.RELEASE.jar jersey-js
+ on-1.19.2.jar asm-5.0.4.jar jboss-logging-3.3.2.Final.jar spring-boot
+ -starter-web-services-1.5.17.BUILD-20181016.062653-21.jar jackson-xc-
+ 1.9.2.jar tomcat-embed-websocket-8.5.34.jar jackson-core-2.8.11.jar h
+ ibernate-core-5.0.12.Final.jar dom4j-1.6.1.jar logback-classic-1.1.11
+ .jar hibernate-entitymanager-5.0.12.Final.jar hibernate-commons-annot
+ ations-5.0.1.Final.jar spring-core-4.3.20.RELEASE.jar threetenbp-0.7.
+ 2.jar tomcat-juli-8.5.34.jar spring-webmvc-4.3.20.RELEASE.jar spring-
+ xml-2.4.3.RELEASE.jar spring-boot-autoconfigure-1.5.17.BUILD-20181016
+ .062653-21.jar spring-tx-4.3.20.RELEASE.jar jersey-core-1.19.2.jar sp
+ ring-data-jpa-1.11.16.RELEASE.jar jaxb-impl-2.2.3-1.jar aspectjweaver
+ -1.8.13.jar ojdbc6-11.2.0.3.jar jasypt-spring-boot-1.7.jar tomcat-emb
+ ed-el-8.5.34.jar hibernate-validator-5.3.6.Final.jar slf4j-api-1.7.25
+ .jar validation-api-1.1.0.Final.jar spring-boot-starter-logging-1.5.1
+ 7.BUILD-20181016.062653-21.jar spring-context-4.3.20.RELEASE.jar spri
+ ng-orm-4.3.20.RELEASE.jar spring-jdbc-4.3.20.RELEASE.jar jasypt-sprin
+ g-boot-starter-1.7.jar tomcat-annotations-api-8.5.34.jar jaxb-api-2.2
+ .2.jar jasypt-1.9.2.jar maven-artifact-3.0.jar antlr-2.7.7.jar access
+ ors-smart-1.2.jar stax-api-1.0-2.jar javax.transaction-api-1.2.jar sp
+ ring-expression-4.3.20.RELEASE.jar
+Main-Class: com.viettelpost.api.WebHookApplication
+
